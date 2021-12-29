@@ -1,0 +1,1 @@
+word_one = input("enter the first word: ")
